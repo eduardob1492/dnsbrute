@@ -11,7 +11,7 @@ flag = f.read()
 
 # open another file to write flag
 
-with open('/tmp/hRtF', 'w') as g:
+with open('/tmp/anakein', 'w') as g:
     g.write(flag)
 
 g.close
